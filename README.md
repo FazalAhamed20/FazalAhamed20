@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazalahamed20" alt="fazalahamed20" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce](thecoffeeland.shop)
+- 🔭 I’m currently working as Software Engineer @Francium Tech
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about **MERN**
 
