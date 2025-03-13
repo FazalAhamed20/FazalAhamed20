@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **9360854754**
+- 📫 How to reach me **fazalahamed628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
